@@ -1,0 +1,10 @@
+D:\new_computer\project\blog\ch9329\CH9329_control_csharp\CH9329_control_csharp\CH9329_control_csharp\bin\Debug\CH9329_control_csharp.exe.config
+D:\new_computer\project\blog\ch9329\CH9329_control_csharp\CH9329_control_csharp\CH9329_control_csharp\bin\Debug\CH9329_control_csharp.exe
+D:\new_computer\project\blog\ch9329\CH9329_control_csharp\CH9329_control_csharp\CH9329_control_csharp\bin\Debug\CH9329_control_csharp.pdb
+D:\new_computer\project\blog\ch9329\CH9329_control_csharp\CH9329_control_csharp\CH9329_control_csharp\obj\Debug\CH9329_control_csharp.csproj.AssemblyReference.cache
+D:\new_computer\project\blog\ch9329\CH9329_control_csharp\CH9329_control_csharp\CH9329_control_csharp\obj\Debug\CH9329_control_csharp.Form1.resources
+D:\new_computer\project\blog\ch9329\CH9329_control_csharp\CH9329_control_csharp\CH9329_control_csharp\obj\Debug\CH9329_control_csharp.Properties.Resources.resources
+D:\new_computer\project\blog\ch9329\CH9329_control_csharp\CH9329_control_csharp\CH9329_control_csharp\obj\Debug\CH9329_control_csharp.csproj.GenerateResource.cache
+D:\new_computer\project\blog\ch9329\CH9329_control_csharp\CH9329_control_csharp\CH9329_control_csharp\obj\Debug\CH9329_control_csharp.csproj.CoreCompileInputs.cache
+D:\new_computer\project\blog\ch9329\CH9329_control_csharp\CH9329_control_csharp\CH9329_control_csharp\obj\Debug\CH9329_control_csharp.exe
+D:\new_computer\project\blog\ch9329\CH9329_control_csharp\CH9329_control_csharp\CH9329_control_csharp\obj\Debug\CH9329_control_csharp.pdb
